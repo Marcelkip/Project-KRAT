@@ -21,6 +21,7 @@ function App() {
 
       <main className="container">
         <h2 className="page-title">Ticketoverzicht</h2>
+        
 
         <section className="stats">
           {stats.map((stat) => (
